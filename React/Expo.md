@@ -25,6 +25,6 @@ npx expo start --web
 ```
 ## Dejar el proyecto en blanco
 ```bash
-npm run reset-proyect
+npm run reset-project
 ```
 
